@@ -43,7 +43,8 @@ Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | clean, soft illustration of a dome protecting a person who is using a laptop, and a hacker trying to enter the dome without success, with clean white background |
+| título | Illustrate the title "O GUIA DEFINITIVO DE SENHAS SEGURAS" in two lines, with a dark blue to light gray background, and white transparent letters on background, matrix movie style |
+| desenho da capa | clean, soft illustration of a dome protecting a person who is using a laptop, and a hacker trying to enter the dome without success, with clean white background |
 
 ## ✨ Features
 
