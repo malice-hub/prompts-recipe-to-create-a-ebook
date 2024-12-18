@@ -88,6 +88,3 @@ bem como para recortes e colorização das ilustrações feitas previamente.
 <br/><br/>
 <p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
