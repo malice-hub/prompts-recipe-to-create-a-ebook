@@ -41,15 +41,24 @@ ChatGPT：
 
 Leonardo AI：
 
+Para a capa, foram usados prompts sem as melhorias da IA.
+
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Illustrate the title "O GUIA DEFINITIVO DE SENHAS SEGURAS" in two lines, with a dark blue to light gray background, and white transparent letters on background, matrix movie style |
 | desenho da capa | clean, soft illustration of a dome protecting a person who is using a laptop, and a hacker trying to enter the dome without success, with clean white background |
 
+Para as ilustrações internas do ebook, foram usadas imagens geradas anteriormente. Infelizmente não guardei o prompt original, este é o que foi aperfeiçoado pelo sistema:
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| ilustrações |  Create line art illustrations of everyday people, diverse in age, gender, and ethnicity, engaged in various computing activities, each surrounded by subtle hint of a warm, cozy environment, with a mix of modern and vintage elements, such as scattered papers, worn-out keyboards, and retro-chic coffee mugs, using notebooks or smartphones with sleek, minimalist designs, their faces filled with focus, curiosity, or delight, facial features subtly defined, skin tones ranging from porcelain to caramel, with unique attributes like bright tattoos, spectacles, or scattered locks of hair, the lines bold and expressive, strokes varied in thickness, rendering a sense of energy and movement, the overall aesthetic reminiscent of editorial illustrations, with a focus on storytelling and emotional depth, inviting the viewer to step into the quietly busy world of these relatable characters. |
+
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
+- Edições de imagem feitas com GIMP e PhotoScapeX para correções das imagens <img src="./assets/Leonardo_Phoenix_09_clean_soft_illustration_of_a_person_using_3.jpg" width="400"> e <img src="./assets/Leonardo_Phoenix_09_Illustrate_the_title_O_GUIA_DEFINITIVO_DE_3.jpg" width="400"> bem como para recortes e colorização das ilustrações feitas previamente.
 
 ## 📚 Materiais
 
