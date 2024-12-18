@@ -66,7 +66,7 @@ bem como para recortes e colorização das ilustrações feitas previamente.
 
 ## 📚 Materiais
 
-- Imagens utilizadas (e com edições) em `assets`
+- Imagens utilizadas (originais e com edições) em `assets`
 - ebook gerado (com edições) em `output`
 
 
@@ -77,17 +77,12 @@ bem como para recortes e colorização das ilustrações feitas previamente.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/61152352?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMaria Alice S Castro<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://github.com/malice-hub/">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/maria-alice-s-castro-b9aa4067/">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
