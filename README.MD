@@ -58,7 +58,9 @@ Para as ilustrações internas do ebook, foram usadas imagens geradas anteriorme
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
-- Edições de imagem feitas com GIMP e PhotoScapeX para correções das imagens <img src="./assets/Leonardo_Phoenix_09_clean_soft_illustration_of_a_person_using_3.jpg" width="400"> e <img src="./assets/Leonardo_Phoenix_09_Illustrate_the_title_O_GUIA_DEFINITIVO_DE_3.jpg" width="400"> bem como para recortes e colorização das ilustrações feitas previamente.
+- Edições de imagem feitas com GIMP e PhotoScapeX para correções das imagens 
+<img src="./assets/Leonardo_Phoenix_09_clean_soft_illustration_of_a_person_using_3.jpg" width="400"> e <img src="./assets/Leonardo_Phoenix_09_Illustrate_the_title_O_GUIA_DEFINITIVO_DE_3.jpg" width="400"> 
+bem como para recortes e colorização das ilustrações feitas previamente.
 
 ## 📚 Materiais
 
